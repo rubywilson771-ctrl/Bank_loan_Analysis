@@ -58,7 +58,7 @@ Compares interest rates across income and credit profiles.
 Maps loans geographically to identify high-loan-demand states.
 
 
-![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145405.png)
+![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Bank_loan_Analysis/blob/main/Bank%20Loan%20report%20Details.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
