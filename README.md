@@ -18,7 +18,8 @@ Created calculated fields for key performance metrics
 
 Tableau Dashboards:
 
-1️⃣ Loan Overview Dashboard
+
+**1️⃣ Loan Overview Dashboard**
 
 Displays Total Loan Applications, Total Funded Amount, and Total Amount Received.
 
@@ -28,11 +29,37 @@ Highlights loan status categories (Fully Paid, Current, Charged Off).
 
 Filters for Month, State, and Loan Status for deeper analysis.
 
+ ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145405.png)
 
 
-Risk & Default Analysis Dashboard  – High-risk loan segments, default rates, and patterns
 
-Customer Segmentation Dashboard    – Insights into borrower profiles, income levels, and loan purposes
+**2️⃣ Loan Performance Dashboard**
+
+Visualizes loan disbursement trends over time.
+
+Shows Top Loan Purposes and their contribution to total loan volume.
+
+Analyzes loan term preferences (36 months vs. 60 months).
+
+Identifies high-risk loan categories based on Charged Off rates
+
+
+![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145405.png)
+
+
+**3️⃣ Customer Demographics & Risk Dashboard**
+
+Breaks down borrowers by Home Ownership Status and Employment Length.
+
+Displays Income Bracket Distribution among borrowers.
+
+Compares interest rates across income and credit profiles.
+
+Maps loans geographically to identify high-loan-demand states.
+
+
+![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145405.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
