@@ -18,7 +18,17 @@ Created calculated fields for key performance metrics
 
 Tableau Dashboards:
 
-Loan Overview Dashboard            –   Loan amounts, interest rates, and approval trends
+1️⃣ Loan Overview Dashboard
+
+Displays Total Loan Applications, Total Funded Amount, and Total Amount Received.
+
+Shows loan performance metrics such as Average Interest Rate and Debt-to-Income Ratio (DTI).
+
+Highlights loan status categories (Fully Paid, Current, Charged Off).
+
+Filters for Month, State, and Loan Status for deeper analysis.
+
+
 
 Risk & Default Analysis Dashboard  – High-risk loan segments, default rates, and patterns
 
