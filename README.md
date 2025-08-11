@@ -44,7 +44,7 @@ Analyzes loan term preferences (36 months vs. 60 months).
 Identifies high-risk loan categories based on Charged Off rates
 
 
-![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145405.png)
+![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Bank_loan_Analysis/blob/main/Bank%20Loan%20report%20Overview.png)
 
 
 **3️⃣ Customer Demographics & Risk Dashboard**
