@@ -1,10 +1,12 @@
 **🏦 Bank Loan Analysis – Tableau Dashboards**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project uses SQL for data extraction & transformation and Tableau for interactive dashboard creation, enabling a comprehensive analysis of loan data to identify approval patterns, risk factors, and portfolio performance. The dashboards aim to assist financial institutions in loan performance tracking, default prediction, and strategic decision-making.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 Project Features
+**📊 Project Features**
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 SQL Data Preparation:
 
@@ -63,7 +65,8 @@ Maps loans geographically to identify high-loan-demand states.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📈 Key Insights
+**📈 Key Insights**
+--------------------------------------------------------------------------------------------------------------------------------------
 
 
 Loan Portfolio Size & Trendsn  : Identified growth in loan disbursements over time.
@@ -76,7 +79,8 @@ Geographical Patterns  : Specific regions have higher loan default percentages.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
+----------------------------------------------------------------------------------------------------------------------
 
 
 SQL – Data extraction, cleaning, and aggregation
